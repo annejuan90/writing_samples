@@ -20,4 +20,4 @@ The [Training Best Practices](https://github.com/annejuan90/writing_samples/blob
 
 ## capsule-info - Bixby Developers
 
-The [`capsule-info`](https://github.com/annejuan90/writing_samples/blob/main/capsule-info%20_%20Bixby%20Developer%20Center.pdf) reference page was written by me as part of the Bixby SDK. I helped created the code samples on the page as well.
+The [`capsule-info`](https://github.com/annejuan90/writing_samples/blob/main/capsule-info%20_%20Bixby%20Developer%20Center.pdf) reference page was written by me as part of the Bixby SDK. I helped created the code samples on the page as well, with some help from other developers on the localized versions of the samples.
