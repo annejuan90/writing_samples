@@ -1,2 +1,3 @@
-# writing_samples
-Writing samples for technical writing
+# Writing Samples
+
+Included in this repo are several writing samples from technical writing.
