@@ -4,15 +4,15 @@ Included in this repo are several writing samples from technical writing.
 
 ## App Punch Out Policies - Bixby Developers
 
-The [App Punch Out Poliices](App Punch Out Policies _ Bixby Developer Center.pdf) file is a design guide meant to help UX designers when handling app punch out policies. I wrote the majority of this document by myself, with editorial help from the lead designer at Viv Labs. Written in 2020.
+The App Punch Out Poliices file is a design guide meant to help UX designers when handling app punch out policies. I wrote the majority of this document by myself, with editorial help from the lead designer at Viv Labs. Written in 2020.
 
 ## Planning a Capsule - Bixby Developers
 
-The [Planning a Capsule](Planning a Capsule _ Bixby Developer Center.pdf) file is a developer guide, but is also for more casual audiences such as project/product managers, designers, and beginner developers. It guides users on the various steps needed to create a Bixby capsule. (A Bixby capsule is similar to a Google Action or an Alexa Skill.) It was written primarily by myself, with guidance and review from a project manager at Viv Labs.
+The Planning a Capsule file is a developer guide, but is also for more casual audiences such as project/product managers, designers, and beginner developers. It guides users on the various steps needed to create a Bixby capsule. (A Bixby capsule is similar to a Google Action or an Alexa Skill.) It was written primarily by myself, with guidance and review from a project manager at Viv Labs.
 
 ## Training Best Practices - Bixby Developers
 
-The [Training Best Practices](Training Best Practices _ Bixby Developer Center.pdf) guide is a more advanced developer guide that describes best practices when creating and annotating training examples for Bixby capsules. I wrote this guide primarily by myself, based off a talk given by the lead data scientist at Viv Labs. It was reviewed by a different data scientist, and edited and updated later by other tech writers.
+The Training Best Practices guide is a more advanced developer guide that describes best practices when creating and annotating training examples for Bixby capsules. I wrote this guide primarily by myself, based off a talk given by the lead data scientist at Viv Labs. It was reviewed by a different data scientist, and edited and updated later by other tech writers.
 
 ## Writing Sample 2 and 3
 
