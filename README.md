@@ -2,6 +2,8 @@
 
 Included in this repo are several writing samples from my technical writing career. If you have any questions, feel free to email me at <anne.juan90@gmail.com>.
 
+You can also find me on [LinkedIn](https://www.linkedin.com/in/anne-michelle-juan/).
+
 ## Bixby Developers 
 
 These examples are static copies of documentation I wrote or helped write from the [Bixby Developer Center](https://bixbydevelopers.com/). Bixby is Samsung's virtual voice assistant, similar to Google Assistant or Amazon Alexa. I help write the developer documentation that allows developers to incorporate their services into Bixby.
