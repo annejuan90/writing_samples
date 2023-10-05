@@ -10,15 +10,15 @@ These examples are static copies of documentation I wrote or helped write from t
 
 ### App Punch Out Policies
 
-The [App Punch Out Poliices](https://github.com/annejuan90/writing_samples/blob/8d0b48b23ecafc3a4992a0a34b7e0242f6f12416/App%20Punch%20Out%20Policies%20_%20Bixby%20Developer%20Center.pdf) file is a design guide meant to help UX designers when handling app punch out policies. I wrote the majority of this document by myself, with editorial help from the lead designer at Viv Labs. Written in 2020.
+The [App Punch Out Poliices](https://github.com/annejuan90/writing_samples/blob/8d0b48b23ecafc3a4992a0a34b7e0242f6f12416/App%20Punch%20Out%20Policies%20_%20Bixby%20Developer%20Center.pdf) file is a design guide meant to help UX designers when handling app punch out policies. I wrote the majority of this document by myself, with editorial help from the lead designer at Viv Labs.
 
 ### Planning a Capsule
 
-The [Planning a Capsule](https://github.com/annejuan90/writing_samples/blob/8d0b48b23ecafc3a4992a0a34b7e0242f6f12416/Planning%20a%20Capsule%20_%20Bixby%20Developer%20Center.pdf) file is a developer guide, but is also for more casual audiences such as project/product managers, designers, and beginner developers. It guides users on the various steps needed to create a Bixby capsule. (A Bixby capsule is similar to a Google Action or an Alexa Skill.) It was written primarily by myself, with guidance and review from a project manager at Viv Labs.
+The [Planning a Capsule](https://github.com/annejuan90/writing_samples/blob/8d0b48b23ecafc3a4992a0a34b7e0242f6f12416/Planning%20a%20Capsule%20_%20Bixby%20Developer%20Center.pdf) file is a developer guide, but is also for less technical audiences such as project/product managers, designers, and beginner developers. It guides users on the various steps needed to create a Bixby capsule. (A Bixby capsule is similar to a Google Action or an Alexa Skill.) It was written primarily by myself, with guidance and review from a project manager at Viv Labs.
 
 ### Training Best Practices
 
-The [Training Best Practices](https://github.com/annejuan90/writing_samples/blob/8d0b48b23ecafc3a4992a0a34b7e0242f6f12416/Training%20Best%20Practices%20_%20Bixby%20Developer%20Center.pdf) guide is a more advanced developer guide that describes best practices when creating and annotating training examples for Bixby capsules. I wrote this guide primarily by myself, based off a talk given by the lead data scientist at Viv Labs. It was reviewed by a different data scientist, and edited and updated later by other tech writers.
+The [Training Best Practices](https://github.com/annejuan90/writing_samples/blob/8d0b48b23ecafc3a4992a0a34b7e0242f6f12416/Training%20Best%20Practices%20_%20Bixby%20Developer%20Center.pdf) guide is a more advanced developer guide that describes best practices when creating and annotating training examples for Bixby capsules. I wrote this guide primarily by myself, based off a talk given by the lead data scientist at Viv Labs. It was reviewed by a different data scientist, and edited and updated later by myself and other tech writers.
 
 ## capsule-info Reference Page
 
