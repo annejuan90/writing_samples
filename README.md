@@ -20,6 +20,10 @@ The [Planning a Capsule](https://github.com/annejuan90/writing_samples/blob/8d0b
 
 The [Training Best Practices](https://github.com/annejuan90/writing_samples/blob/8d0b48b23ecafc3a4992a0a34b7e0242f6f12416/Training%20Best%20Practices%20_%20Bixby%20Developer%20Center.pdf) guide is a more advanced developer guide that describes best practices when creating and annotating training examples for Bixby capsules. I wrote this guide primarily by myself, based off a talk given by the lead data scientist at Viv Labs. It was reviewed by a different data scientist, and edited and updated later by myself and other tech writers.
 
+### Localizing Capsules
+
+The [Localizing Capsules](https://github.com/annejuan90/writing_samples/blob/cdaf8be731ee26ecd6ccabcc50226a868e433e26/Localizing%20Capsules%20_%20Bixby%20Developer%20Center.pdf) document is an advanced guide that helps Bixby developers understand how to set up and format their capsule to utilize localization services. I wrote this guide by myself, with a review from a PM at Viv Labs. I have updated and edited a few times, as the platform has evolved, but no other writer has added or edited this heavily edited this content.
+
 ## capsule-info Reference Page
 
 The [`capsule-info`](https://github.com/annejuan90/writing_samples/blob/main/capsule-info%20_%20Bixby%20Developer%20Center.pdf) reference page was written by me as part of the Bixby SDK. I helped created the code samples on the page as well, with some help from other developers on the localized versions of the samples.
